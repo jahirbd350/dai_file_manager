@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7c06b79-d8f6-450b-ba38-2c8a283eb5fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/js/dataTables.bootstrap4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/datatables-demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dai_file_manager.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reset_password.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/classes/FileManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/classes/FileManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/classes/Login.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/classes/Login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/KG-Rules.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/opssec/Myanmar 28 Dec 20.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/opssec/Myanmar 29 Oct 20.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inbox.php" beforeDir="false" afterPath="$PROJECT_DIR$/inbox.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/my_files.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sent.php" beforeDir="false" afterPath="$PROJECT_DIR$/sent.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kzuUIJ8ta2JDCSMHfpa7pGaIng" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\dai_file_manager" />
+      <recent name="C:\xampp\htdocs\dai_file_manager\assets\js" />
+      <recent name="C:\xampp\htdocs\dai_file_manager\assets" />
+      <recent name="C:\xampp\htdocs\dai_file_manager\assets\js\font-awesome" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7c06b79-d8f6-450b-ba38-2c8a283eb5fe" name="Default Changelist" comment="" />
+      <created>1606715755383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606715755383</updated>
+      <workItem from="1606715756654" duration="18407000" />
+      <workItem from="1606968504904" duration="727000" />
+      <workItem from="1607826689220" duration="11032000" />
+      <workItem from="1607855824881" duration="2631000" />
+      <workItem from="1607913051788" duration="3326000" />
+      <workItem from="1608003988746" duration="840000" />
+      <workItem from="1608016372608" duration="11311000" />
+      <workItem from="1608517474719" duration="5050000" />
+      <workItem from="1608530382501" duration="1671000" />
+      <workItem from="1608608120188" duration="1868000" />
+      <workItem from="1609122636261" duration="8848000" />
+      <workItem from="1609207569091" duration="15612000" />
+      <workItem from="1609235663663" duration="605000" />
+      <workItem from="1609295921267" duration="11034000" />
+      <workItem from="1609640465311" duration="8821000" />
+      <workItem from="1609660353496" duration="5888000" />
+      <workItem from="1609726103474" duration="1548000" />
+      <workItem from="1609828516385" duration="3470000" />
+      <workItem from="1609985300124" duration="6710000" />
+      <workItem from="1610002497861" duration="2630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+#progress-bar {
+    background-color: #12CC1A;
+    height: 30px;
+    color: #FFFFFF;
+    width: 0%;
+    border-radius: 4px;
+    -webkit-transition: width .3s;
+    -moz-transition: width .3s;
+    transition: width .3s;
+}
+
+#progress-div {
+    border-radius: 4px;
+    text-align: center;
+}
